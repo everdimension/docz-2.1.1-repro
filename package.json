@@ -1,0 +1,18 @@
+{
+  "name": "docz-2.1.1-repro",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "docz dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "everdimension <everdimension@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.9.14",
+    "@types/react-dom": "^16.9.4",
+    "docz": "^2.1.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "typescript": "^3.7.3"
+  }
+}
